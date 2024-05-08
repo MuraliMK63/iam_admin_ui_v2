@@ -1,0 +1,16 @@
+.topnav{
+    margin: 0;
+    text-align: center;
+    list-style-type: none;
+    background-color:#c5cbd4;
+}
+
+.topnav li{
+    cursor: pointer;
+}
+
+
+.selected{
+    background-color: white;
+    border-bottom: 2px solid #246ae3;
+}

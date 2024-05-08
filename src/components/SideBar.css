@@ -1,0 +1,18 @@
+
+
+.side{
+    list-style-type: none;
+    padding: 0;
+}
+
+.side  li {
+    padding: 3%;
+}
+
+
+
+
+.activelink li{
+    background-color: #246ae3;
+    color: white;
+}
